@@ -1,3 +1,17 @@
+## 使用方法
+
+```text
+make
+```
+
+```shell
+jetbra-activate
+```
+
+
+
+
+---
 ## Jetbra Activate [idea激活]
 
 Jetbra Active is a JetBrains IDE activation tool that helps you quickly activate JetBrains IDE.
